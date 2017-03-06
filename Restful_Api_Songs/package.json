@@ -1,0 +1,28 @@
+{
+  "name": "songapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-uglify": "^2.0.0",
+    "mongoose": "^4.6.8",
+    "mongoose-pages": "0.0.3",
+    "mongoose-paginate": "^5.0.3",
+    "mongoose-pagination": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mongoose-paginate": "^5.0.3",
+    "mongoose-pagination": "^1.0.0"
+  }
+}
